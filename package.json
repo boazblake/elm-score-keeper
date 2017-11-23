@@ -1,0 +1,12 @@
+{
+  "name": "score-keeper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:boazblake/elm-score-keeper.git",
+  "author": "Boaz Blake <boazblake@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages-deploy",
+    "clean-source": "rimraf README.md src webroot package.json"
+  }
+}
